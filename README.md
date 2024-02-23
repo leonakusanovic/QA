@@ -25,7 +25,7 @@
 
 npm init -y
 
-2.2  Installing axios package
+#### 2.2  Installing axios package
 
 - In your terminal or command prompt, navigate to the directory of your project.
 
